@@ -1,10 +1,9 @@
 import { Button } from "@/components/ui/button";
 
 export default function LoginPage() {
-  return
-  (
+  return(
     <div>
-        <Button>Login</Button>
+      <Button>Login</Button>
       <h1>Login</h1>
     </div>
   );
